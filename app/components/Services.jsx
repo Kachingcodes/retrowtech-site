@@ -1,11 +1,11 @@
-import React from "react";
+import React, { forwardRef } from "react";
 import { capabilities } from "@/public/assets";
 import Lottie from "lottie-react";
 import { motion } from "framer-motion"; // ← Import motion
 
 const Services = () => {
   return (
-    <section className="w-full py-20 bg-[#181c25] text-white overflow-x-hidden" id="Services">
+    <section className="w-full py-10 bg-[#181c25] text-white overflow-x-hidden" id="Services">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold">What We Offer</h2>
         <p className="text-red-500 mt-3">

@@ -48,10 +48,10 @@ const AboutUs = () => {
             className="rounded-full border-4 border-[#FE0628]"
           />
           <div>
-            <h3 className="text-2xl font-bold mb-2">Alozie-Nsirimobi Onyekachi Lynn</h3>
+            <h3 className="text-2xl font-bold mb-2">Joshua</h3>
             <p className="text-gray-400">
               A passionate engineer and creative technologist. With a background in software engineering and a deep love for AI, 
-              Lynn leads with curiosity, builds with purpose, and delivers with care.
+              Joshua leads with curiosity, builds with purpose, and delivers with care.
             </p>
           </div>
         </div>
